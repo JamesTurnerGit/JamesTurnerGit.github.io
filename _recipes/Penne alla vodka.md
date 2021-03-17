@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Penne alla vodka"
-image:  null
+image:  penneVodka.jpg
 imagecredit: nah
 tags: vodka
 
@@ -28,3 +28,6 @@ directions:
 - Transfer the sauce to the jar of a blender, discarding the basil, and add the cream and vodka. Starting on the lowest speed and gradually increasing to high, blend until completely smooth, about 30 seconds. Return to the sacepan and bring to a simmer over high heat, then reduce to a bare simmer and allow to reduce further while the pasta cooks.	
 - Place the pasta in a large pot and cover with hot water. Add a large pinch of salt and bring to a boil over high heat, stirring occasionally to keep the pasta from sticking. Continue to cook until the pasta is fully softened but retains a slight bite in the center. Meanwhile about 2 minutes before the pasta is done, add the chicken to the sauce and stir to combine.	
 - Drain the pasta, reserving 1½ cups of the cooking liquid, and return to the pot. Add the sauce, stir to combine, and cook over medium heat, stirring frequently, until the chicken is cooked through and the sauce has achieved the desired consistency, about 1 minute, adding some of the reserved pasta water as necessary. Serve immediately, topped with the parsley and grated cheese.	
+
+---
+from kandy
