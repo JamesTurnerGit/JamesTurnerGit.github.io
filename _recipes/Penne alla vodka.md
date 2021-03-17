@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Penne alla vodka"
-image:  git.jpg
+image:  penneVodka.jpg
 imagecredit: nah
 tags: vodka
 
