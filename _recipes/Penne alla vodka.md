@@ -42,3 +42,5 @@ directions:
 
 ---
 from kandy
+
+Serves 4
