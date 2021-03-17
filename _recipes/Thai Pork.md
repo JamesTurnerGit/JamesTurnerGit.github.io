@@ -4,7 +4,7 @@ layout: recipe
 title:  "Thai pork"
 image:  thaipork.jpg
 imagecredit: nah
-tags: vodka
+tags: nom
 
 ingredients:
 - 300ml	Water	
