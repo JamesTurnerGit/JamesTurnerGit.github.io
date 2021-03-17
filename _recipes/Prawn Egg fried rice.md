@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Prawn Egg fried rice"
-image:  prawn egg.jpg
+image:  prawnegg.jpg
 imagecredit: nah
 tags: nom
 
