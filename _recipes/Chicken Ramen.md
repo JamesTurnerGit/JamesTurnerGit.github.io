@@ -7,20 +7,20 @@ imagecredit: nah
 tags: nom
 
 ingredients:
-- 2 chicken breasts (boneless, skin-on)*
-- kosher salt and freshly-ground black pepper, to season
-- 1 tbsp unsalted butter
-- 2 tsp sesame or vegetable oil
-- 2 tsp fresh ginger, minced
-- 3 tsp fresh garlic, minced
-- 3 tbsp low-sodium soy sauce
-- 2 tbsp mirin
-- 4 cups rich chicken stock
-- 1 oz dried shitake mushrooms (or 1/2 cup fresh)
+- chicken breasts (boneless, skin-on)*  (skin on is hard to buy normal is fine)
+- kosher salt and freshly-ground black pepper, to season (normal salt is fine)
+- 1 tbsp unsalted butter (unsalted is a waste of time to full salt butter)
+- 2 tsp sesame or vegetable oil 
+- 2 tsp fresh ginger, minced (like a thumb size piece)
+- 3 tsp fresh garlic, minced  (4cloves??)
+- 3 tbsp low-sodium soy sauce (regular sodium you can take it)
+- 2 tbsp mirin (white wine vinegar or dry sherry will do if no Mirin)
+- 4 cups rich chicken stock (1litre)
+- 1 oz dried shitake mushrooms (or 1/2 cup fresh) (1oz is 30g ish don't let this limit you, any mushroom will do but try go meaty mushroom)
 - 1–2 tsp sea salt, to taste
 - 2 large eggs
-- 1/2 cup scallions, sliced
-- 2 (3 oz) packs dried ramen noodles
+- 1/2 cup scallions, sliced (spring onions it means spring onions about 2)
+- 2 (3 oz) packs dried ramen noodles (any old noodles)
 
 directions:
 - Preheat the oven to 375 degrees.
@@ -50,7 +50,6 @@ directions:
 - Serve immediately.
 
 ---
-From
-https://www.forkknifeswoon.com/simple-homemade-chicken-ramen/
+From https://www.forkknifeswoon.com/simple-homemade-chicken-ramen/
 
 serves 2
