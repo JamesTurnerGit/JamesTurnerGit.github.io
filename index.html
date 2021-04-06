@@ -4,13 +4,17 @@ layout: default
 
 <div class="home"> 
   <h1>Recipe of the week!</h1>
-  {% assign post = site.recipes[0] %}
+  {% assign sorted = site.recipes | sort:"date" %}
+  {% for post in sorted %}
+  {% if post.title == "Onion Bhaji Burger With Coconut Raita" %}
   <div>
     <a class="block relative bg-blue" href="{{ post.url | prepend: site.baseurl }}">
       <div class="image ratio bg-cover"{% for image in post.image %} style="background-image:url({{site.baseurl}}/images/{{ image }});"{% endfor %}></div>
       <h1 class="title p2 m0 absolute bold black bottom-0 left-0">{{ post.title }}</h1>
     </a>
   </div>
+  {% endif %}
+  {% endfor %}
   <div>
     <h1>More Jank!</h1>
     <div class="recipes xs-px1 xs-mt2">
