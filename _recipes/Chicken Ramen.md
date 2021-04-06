@@ -2,8 +2,8 @@
 
 layout: recipe
 title:  "Chicken Ramen"
-image:  chickenRamen.jpg
-imagecredit: nah
+image:  Ramen.jpg
+imagecredit: Gecko
 tags: nom
 
 ingredients:
