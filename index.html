@@ -6,7 +6,7 @@ layout: default
   <h1>Recipe of the week!</h1>
   {% assign sorted = site.recipes | sort:"date" %}
   {% for post in sorted %}
-  {% if post.title == "chicken and chorizo" %}
+  {% if post.title == "Chicken and Chorizo" %}
   <div>
     <a class="block relative bg-blue" href="{{ post.url | prepend: site.baseurl }}">
       <div class="image ratio bg-cover"{% for image in post.image %} style="background-image:url({{site.baseurl}}/images/{{ image }});"{% endfor %}></div>

@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Chicken and chorizo"
+title:  "Chicken and Chorizo"
 image:  nope.jpg
 imagecredit: 
 tags: nom
